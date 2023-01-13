@@ -6,9 +6,9 @@ import AppContainer from "./AppContainer";
 const App = () => {
   return (
     <div>
-      {/*<GridExample />*/}
-
       <AppContainer />
+
+      <GridExample />
     </div>
   );
 };
